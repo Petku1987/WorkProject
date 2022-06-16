@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="77b21ba9-7a27-47f9-9c19-8c1458126b3e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ClassWork4/ContDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassWork4/ContToLabel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassWork4/FindDivider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassWork5/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassWork5/CheckNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassWork5/ConstructorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassWork5/ParamDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassWork5/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassWork5/VehicleDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork/HelloUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork/Massive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork/ParOrImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork/ПарыМножителейВведённогоЧисла.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ClassWork3/ForTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClassWork3/ForTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ClassWork3/NestedIfElse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClassWork3/NestedIfElse.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ARAMKZNYPaYGeOUh9MFWj0yt9M" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Sasa/IdeaProjects/WorkProject&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.ПарыМножителейВведённогоЧисла">
+    <configuration name="ПарыМножителейВведённогоЧисла" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork.ПарыМножителейВведённогоЧисла" />
+      <module name="WorkProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWork.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClassWork5.ConstructorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClassWork5.ConstructorDemo" />
+      <module name="WorkProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ClassWork5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClassWork5.ParamDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClassWork5.ParamDemo" />
+      <module name="WorkProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ClassWork5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClassWork5.VehicleDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClassWork5.VehicleDemo" />
+      <module name="WorkProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ClassWork5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindDivider" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClassWork4.FindDivider" />
+      <module name="WorkProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ClassWork4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ПарыМножителейВведённогоЧисла" />
+        <item itemvalue="Application.ClassWork5.VehicleDemo" />
+        <item itemvalue="Application.ClassWork5.ConstructorDemo" />
+        <item itemvalue="Application.ClassWork5.ParamDemo" />
+        <item itemvalue="Application.FindDivider" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="77b21ba9-7a27-47f9-9c19-8c1458126b3e" name="Changes" comment="" />
+      <created>1654961977239</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654961977239</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
